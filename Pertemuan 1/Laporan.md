@@ -2,11 +2,11 @@
 
 ## Output Program
 
-<img src="Images/Output1.png" />
+<img src="Images/Output1.PNG" />
 
-<img src="Images/Output2.png" />
+<img src="Images/Output2.PNG" />
 
-<img src="Images/Output3.png" />
+<img src="Images/Output3.PNG" />
 
 ## Image Objek
 
