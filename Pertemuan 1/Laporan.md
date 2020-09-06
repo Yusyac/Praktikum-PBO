@@ -2,27 +2,27 @@
 
 ## Output Program
 
-<img src="images/Output1.png" />
+<img src="Images/Output1.png" />
 
-<img src="images/Output2.png" />
+<img src="Images/Output2.png" />
 
-<img src="images/Output3.png" />
+<img src="Images/Output3.png" />
 
 ## Image Objek
 
-<img src="images/Pintu.jpeg" />
+<img src="Images/Pintu.jpeg" />
 
-<img src="images/PintuGeser.jpeg" />
+<img src="Images/PintuGeser.jpeg" />
 
-<img src="images/Botol.jpeg" />
+<img src="Images/Botol.jpeg" />
 
-<img src="images/Galon.jpeg" />
+<img src="Images/Galon.jpeg" />
 
-<img src="images/Jendela.jpeg" />
+<img src="Images/Jendela.jpeg" />
 
-<img src="images/Laptop.jpeg" />
+<img src="Images/Laptop.jpeg" />
 
-<img src="images/LaptopGaming.jpeg" />
+<img src="Images/LaptopGaming.jpeg" />
 
 Hasil Dari Identifikasi Objek Yang Ada Disekitar Saya. Objek Yang Dimaksud Yaitu :
 
