@@ -2,7 +2,7 @@
 
 # Class Diagram
 
-<img src="Img/Main.PNG" />
+<img src="Img/Main.png" />
 
 # Output
 
