@@ -1,3 +1,3 @@
 ## Hasil Output
 
-<img src="img/Capture.png" />
+<img src="img/Capture.PNG" />
