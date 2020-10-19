@@ -1,3 +1,3 @@
 ## Output
 
-<img src="Img/Output.JPEG" />
+<img src="Img/Output.JPG" />
