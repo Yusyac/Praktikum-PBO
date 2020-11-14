@@ -7,17 +7,23 @@
 # Pertanyaan Percobaan 1
 
 1.  Pada langkah ke 9, pada baris program ke 3 terdapat warning pada script tersebut. Jelaskan penyebab terjadinya hal tersebut ?
+    
     Karena sudah berada dalam satu package jadi tidak perlu di import.
     
 2.  Pada langkah ke 9, pada baris program ke 3. Apa yang terjadi jika script tersebut dihilangkan? Jelaskan menurut pemahaman anda.
+    
     Tidak terjadi error karena sudah satu package dan tidak perlu di import.
+    
 3.  Mengapa pada langkah nomor 9 terjadi error? Jelaskan!
+
     Karena pada class Mahasiswa tidak mengimplements Interface ICumLaude.
     
 4.  Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class Program? Mengapa demikian?
+
     Bisa karena Class Sarjana mengextends Class Mahasiswa yang mempunyai method kuliahDiKampus().
     
 5.  Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian?
+
     Bisa. Jika kita menambahkan method kuliahDiKampus() pada Interface ICumLaude.
     
 6. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini:
@@ -36,6 +42,7 @@
     Akan terjadi error karena semua method yang ada di Class Interface harus bertype Public.
     
 2.  Jelaskan menurut anda, mengapa hasil dari script code tersebut error ?
+
     Karena pada Interface tidak bisa menginstansiasi Objek.
     
 3.  Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, 
@@ -97,5 +104,5 @@ Class Abstract Binatang.
 
 # Class Diagram
 
-<img src="Img/ClassDiagram.PNG" />
+<img src="Img/ClassDiagram.jpg" />
     
