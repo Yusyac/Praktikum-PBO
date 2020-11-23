@@ -1,3 +1,3 @@
 ## Output Program 
 
-<img src="Img/Output.png" />
+<img src="Img/Output.PNG" />
